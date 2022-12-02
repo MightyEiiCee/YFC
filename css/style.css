@@ -244,7 +244,7 @@ section{
     display: flex;
     align-items: center;
     background: var(--background-image);
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
     
 }
