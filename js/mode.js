@@ -7,12 +7,12 @@
         if (document.body.classList.contains("light-theme")){           
             icon.src = "images/mode/moon.png";
             logo.src = "images/logo/BlackYFC.png";
-            menu.src = "images/menu.png"
+            menu.src = "images/mode/menu.png"
         }
         else{
             icon.src = "images/mode/sun.png";
             logo.src="images/logo/WhiteYFC.png";
-            menu.src = "images/menu-w.png"
+            menu.src = "images/mode/menu-w.png"
         }
     }   
     
